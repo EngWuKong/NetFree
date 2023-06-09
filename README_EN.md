@@ -21,7 +21,7 @@ shadowsocks:
     - shadowsocks
 ```
 
-<img src="./attchment/shadowsocks_config.png" width=100px height=100px>
+<img src="./attchment/shadowsocks_config.png" width=300px>
 
 
 3. 
