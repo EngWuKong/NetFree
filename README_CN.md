@@ -30,6 +30,6 @@ docker-compose up -d
 docker-compose ps
 ```
 
-4. 注意 VPS 或 主机开放第2步中端 第一个端口<br>
+4. 注意 VPS 或 主机开放第2步中配置文件的第1个端口参数<br>
 以 AWS 为例:
 <img src="/attchment/AwsNetWorkSecurityGroupConfig.png" width="500">
