@@ -7,7 +7,7 @@ https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/READM
 
 1. Create  ```docker-compose.yml```, recommend create a single directory to save config file . 
  <br>
- for example  ``` ~/shadowsocket/config```
+for example  ``` ~/shadowsocket/config```
 2. Add config parameter
 ```
 shadowsocks:
