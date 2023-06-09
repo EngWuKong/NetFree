@@ -5,7 +5,9 @@ https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/READM
 
 # Simple Step
 
-1. Create  ```docker-compose.yml```, recommend create a single directory to save config file . for example  ``` ~/shadowsocket/config```
+1. Create  ```docker-compose.yml```, recommend create a single directory to save config file . 
+ <br>
+ for example  ``` ~/shadowsocket/config```
 2. Add config parameter
 ```
 shadowsocks:
@@ -19,7 +21,7 @@ shadowsocks:
     - shadowsocks
 ```
 
-![Attention](/attchment/shadowsocks_config.png)
+![Attention](/attchment/shadowsocks_config.png =100)
 
 3. 
 ```
@@ -31,4 +33,4 @@ docker-compose ps
 
 4. should config first port  rule for VPS or host <br>
 the case of AWS:
-![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png)
+![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png =100)

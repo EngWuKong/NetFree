@@ -5,7 +5,8 @@ https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/READM
 
 # 简明指导
 1. 创建 
-```docker-compose.yml```, 建议创建一个专有目录存放配置文件. 如  ``` ~/shadowsocket/config```
+```docker-compose.yml```, 建议创建一个专有目录存放配置文件.
+ <br>如  ``` ~/shadowsocket/config```
 2. 添加配置内容
 ```
 shadowsocks:
@@ -19,7 +20,8 @@ shadowsocks:
     - shadowsocks
 ```
 
-![注意](/attchment/shadowsocks_config.png)
+![注意](/attchment/shadowsocks_config.png =100)
+
 3. 
 ```
 cd ~/shadowsocket/config
@@ -30,4 +32,4 @@ docker-compose ps
 
 4. 注意 VPS 或 主机开放第2步中端 第一个端口<br>
 以 AWS 为例:
-![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png)
+![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png =100)
