@@ -18,5 +18,5 @@ shadowsocks:
   secrets:
     - shadowsocks
 ```
-建议修改: "8388:8388" 中 冒号前面的端口,不要修改冒号后面的端口<br>
-必须修改: PASSWORD_SECRET
+
+![注意](/attchment/shadowsocks_config.png)
