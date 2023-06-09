@@ -25,7 +25,7 @@ shadowsocks:
 <img src="/attchment/shadowsocks_config.png" width="500">
 
 
-3. 
+3. Create docker
 ```
 cd ~/shadowsocket/config
 curl -sSLO https://github.com/shadowsocks/shadowsocks-libev/raw/master/docker/alpine/docker-compose.yml
