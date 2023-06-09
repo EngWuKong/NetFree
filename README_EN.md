@@ -21,7 +21,7 @@ shadowsocks:
     - shadowsocks
 ```
 
-![Attention](/attchment/shadowsocks_config.png =100)
+![Attention](/attchment/shadowsocks_config.png =100x)
 
 3. 
 ```
@@ -33,4 +33,4 @@ docker-compose ps
 
 4. should config first port  rule for VPS or host <br>
 the case of AWS:
-![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png =100)
+![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png =100x)

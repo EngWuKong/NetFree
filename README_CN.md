@@ -20,7 +20,7 @@ shadowsocks:
     - shadowsocks
 ```
 
-![注意](/attchment/shadowsocks_config.png =100)
+![注意](/attchment/shadowsocks_config.png =100x)
 
 3. 
 ```
@@ -32,4 +32,4 @@ docker-compose ps
 
 4. 注意 VPS 或 主机开放第2步中端 第一个端口<br>
 以 AWS 为例:
-![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png =100)
+![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png =100x)
