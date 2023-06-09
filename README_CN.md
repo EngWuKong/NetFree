@@ -29,3 +29,5 @@ docker-compose ps
 ```
 
 4. 注意 VPS 或 主机开放第2步中端 第一个端口
+以 AWS 为例:
+![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png)
