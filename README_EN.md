@@ -35,4 +35,5 @@ docker-compose ps
 
 4. should config first port  rule for VPS or host <br>
 the case of AWS:
-![Alt text](/attchment/AwsNetWorkSecurityGroupConfig.png =100x)
+<img src="/attchment/AwsNetWorkSecurityGroupConfig.png" width="500">
+
