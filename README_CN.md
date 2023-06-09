@@ -20,3 +20,12 @@ shadowsocks:
 ```
 
 ![注意](/attchment/shadowsocks_config.png)
+3. 
+```
+cd ~/shadowsocket/config
+curl -sSLO https://github.com/shadowsocks/shadowsocks-libev/raw/master/docker/alpine/docker-compose.yml
+docker-compose up -d
+docker-compose ps
+```
+
+4. 注意 VPS 或 主机开放第2步中端 第一个端口
