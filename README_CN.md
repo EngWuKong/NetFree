@@ -20,7 +20,7 @@ shadowsocks:
     - shadowsocks
 ```
 
-![注意](/attchment/shadowsocks_config.png =100x)
+<img src="/attchment/shadowsocks_config.png" width="500">
 
 3. 
 ```

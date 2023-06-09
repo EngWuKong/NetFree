@@ -21,7 +21,9 @@ shadowsocks:
     - shadowsocks
 ```
 
-![Attention](/attchment/shadowsocks_config.png  | width=500)
+
+<img src="/attchment/shadowsocks_config.png" width="500">
+
 
 3. 
 ```
